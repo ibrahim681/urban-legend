@@ -1,0 +1,16 @@
+/* AlertUnderConstruction.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    /* Stack items vertically */
+    justify-content: center;
+    /* Center items vertically */
+    align-items: center;
+    /* Center items horizontally */
+    height: 100vh;
+    /* Full viewport height */
+    padding: 0 20px;
+    /* Optional: Add horizontal padding */
+    box-sizing: border-box;
+    /* Include padding in the total width and height */
+}
